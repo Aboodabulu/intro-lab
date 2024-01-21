@@ -9,6 +9,10 @@ h1 {
     font-size: 40px;
 }
 
+h2 {
+    padding: 30px;
+}
+
 p {
     padding: 30px;
     text-align: left;
