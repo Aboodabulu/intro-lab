@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+    color: rgb(34, 34, 34);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    padding: 30px;
+    font-size: 40px;
+}
+
+p {
+    padding: 30px;
+    text-align: left;
+    width: 850px;
+    line-height: 150%;
+}
+
+img {
+    width: 400px;
+}
